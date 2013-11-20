@@ -19,7 +19,7 @@ describe Grid do
 	end
 
 	it "Should be able to determine a cells neighbors" do
-
+		
 	end
 
 
